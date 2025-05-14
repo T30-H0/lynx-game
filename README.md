@@ -99,3 +99,4 @@ npm run dev
 - Typescript
 - react-router
 - tanstack-query
+# lynx-game
